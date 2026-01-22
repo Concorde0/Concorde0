@@ -24,3 +24,6 @@ Here are some ideas to get you started:
   <img src="https://gh-stats.whispery.top/api/top-langs/?username=Concorde0&layout=compact&hide=html,css,scss"
     style="display: block; height: 100%;" />
 </div>
+
+
+[![Concorde0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Concorde0&theme=github-compact)](https://github.com/Concorde0/github-readme-activity-graph)
