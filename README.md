@@ -27,3 +27,13 @@ Here are some ideas to get you started:
 
 
 [![Concorde0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Concorde0&theme=github-compact)](https://github.com/Concorde0/github-readme-activity-graph)
+
+## 🛠 Tech Stack
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
