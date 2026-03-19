@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://moe-wakatimer.1462913972.workers.dev/?time_type=second&theme=moebooru" alt="Moe Wakatimer" />
+  <img src="https://moe-wakatimer.1462913972.workers.dev/?time_type=second&theme=capoo-1" alt="Moe Wakatimer" />
 </p>
 
 
