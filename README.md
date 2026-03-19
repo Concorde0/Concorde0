@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 </div>
 
 
-https://moe-wakatimer.1462913972.workers.dev/?time_type=second&theme=moebooru
+<p align="center">
+  <img src="https://moe-wakatimer.1462913972.workers.dev/?time_type=second&theme=moebooru" alt="Moe Wakatimer" />
+</p>
+
+
 
 
