@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![snake](https://raw.githubusercontent.com/Concorde0/Concorde0/output/github-contribution-grid-snake.svg)
 
 ## 🛠 Tech Stack
 
@@ -43,6 +42,8 @@ Here are some ideas to get you started:
 
 
 [![Concorde0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Concorde0&theme=github-compact)](https://github.com/Concorde0/github-readme-activity-graph)
+
+![snake](https://raw.githubusercontent.com/Concorde0/Concorde0/output/github-contribution-grid-snake.svg)
 
 <div align="right">
   <a href="https://wakatime.com/@6a954c17-36f2-4ec5-aad7-1b2678498946"><img src="https://wakatime.com/badge/user/6a954c17-36f2-4ec5-aad7-1b2678498946.svg" alt="Total time coded since Feb 22 2026" /></a>
