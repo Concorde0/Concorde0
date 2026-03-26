@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+![snake](https://raw.githubusercontent.com/Concorde0/Concorde0/output/github-contribution-grid-snake.svg)
 
 ## 🛠 Tech Stack
 
@@ -57,7 +58,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![snake](https://raw.githubusercontent.com/Concorde0/Concorde0/output/github-contribution-grid-snake.svg)
+
 
 
 
