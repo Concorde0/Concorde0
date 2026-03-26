@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...https://github.com/Concorde0/Concorde0/blob/main/README.md
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -55,6 +55,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://moe-wakatimer.1462913972.workers.dev/?time_type=second&theme=booru-vp" alt="Moe Wakatimer" />
 </p>
+
+
+![snake](https://raw.githubusercontent.com/Concorde0/Concorde0/output/github-contribution-grid-snake.svg)
+
 
 
 
