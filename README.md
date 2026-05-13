@@ -36,16 +36,4 @@ Here are some ideas to get you started:
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
-
-
-[![Concorde0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Concorde0&theme=github-compact)](https://github.com/Concorde0/github-readme-activity-graph)
-
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Concorde0/Concorde0/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
-
