@@ -37,6 +37,3 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
-————————————————
-版权声明：本文为CSDN博主「一头浓发程序猿」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/i826056899/article/details/159856500
