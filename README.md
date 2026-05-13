@@ -37,3 +37,8 @@ Here are some ideas to get you started:
 ![Top Languages](./profile/top-langs.svg)
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Concorde0/Concorde0/output/github-contribution-grid-snake.svg)
+
+
+<div align="right">
+  <a href="https://wakatime.com/@6a954c17-36f2-4ec5-aad7-1b2678498946"><img src="https://wakatime.com/badge/user/6a954c17-36f2-4ec5-aad7-1b2678498946.svg" alt="Total time coded since Feb 22 2026" /></a>
+<br/>
