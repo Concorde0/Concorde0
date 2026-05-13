@@ -42,3 +42,10 @@ Here are some ideas to get you started:
 <div align="right">
   <a href="https://wakatime.com/@6a954c17-36f2-4ec5-aad7-1b2678498946"><img src="https://wakatime.com/badge/user/6a954c17-36f2-4ec5-aad7-1b2678498946.svg" alt="Total time coded since Feb 22 2026" /></a>
 <br/>
+  <sub>
+    Tracking with WakaTime since Dec 6, 2025
+  </sub>
+</div>
+<p align="center">
+  <img src="https://moe-wakatimer.1462913972.workers.dev/?time_type=second&theme=booru-vp" alt="Moe Wakatimer" />
+</p>
