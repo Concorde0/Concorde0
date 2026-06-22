@@ -1,4 +1,17 @@
-## Hi there 👋
+## 👋 About Me
+
+- 🔭 **Architecture & design patterns explorer.**  
+- 💡 **Strong opinions, open to challenge.**  
+- ⚔️ **Combat programmer @ Riff Dev Games & GAMEFANTASY.**  
+- 💬 **Clear, logical communication.**
+
+
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/📚_Current_Project-School_Knowledge_Review-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🕹️_Role-Game Developer_%26_Sutent-00B4D8?style=for-the-badge" />
+</p>
 
 <!--
 **Concorde0/Concorde0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,43 +30,48 @@ Here are some ideas to get you started:
 -->
 
 
-## 🛠 Tech Stack
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-
-## 🧰 Dev Tools
-
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+## 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <br />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="Rider" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white" alt="Perforce" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 
 
 
 ## 📈 Activity Stats
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<p align="center">
+  <img src="./profile/stats.svg" style="display: inline-block; margin: 0 10px;" />
+  <img src="./profile/top-langs.svg" style="display: inline-block; margin: 0 10px;" />
+</p>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Concorde0/Concorde0/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Concorde0/Concorde0/output/github-contribution-grid-snake.svg" />
+</p>
 
 <div align="right">
-  <a href="https://wakatime.com/@6a954c17-36f2-4ec5-aad7-1b2678498946"><img src="https://wakatime.com/badge/user/6a954c17-36f2-4ec5-aad7-1b2678498946.svg" alt="Total time coded since Feb 22 2026" /></a>
-<br/>
-  <sub>
-    Tracking with WakaTime since Dec 6, 2025
-  </sub>
+  <a href="https://wakatime.com/@6a954c17-36f2-4ec5-aad7-1b2678498946">
+    <img src="https://wakatime.com/badge/user/6a954c17-36f2-4ec5-aad7-1b2678498946.svg" alt="Total time coded since Feb 22 2026" />
+  </a>
+  <br />
+  <sub>Tracking with WakaTime since Dec 6, 2025</sub>
 </div>
+
 <p align="center">
   <img src="https://moe-wakatimer.1462913972.workers.dev/?time_type=second&theme=booru-vp" alt="Moe Wakatimer" />
 </p>
