@@ -1,6 +1,6 @@
 ## 😽 About Me
 
-- 🐱 **Rising Junior.**
+- 🐱 **Computer Science student.**
 - 🙀 **Architecture & design patterns explorer.**  
 - 😿 **Strong opinions, open to challenge.**  
 - 😾 **Combat programmer @ Riff Dev Games & GAMEFANTASY.**  
