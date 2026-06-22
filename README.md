@@ -6,7 +6,7 @@
 - 😹 **Clear, logical communication.**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🐾_Current_Project-Game_Developer_%26_Student-FFB6C1?style=for-the-badge&labelColor=2D2A3E" />
+  <img src="https://img.shields.io/badge/🐾_Current_Project-Grinding Knowledge XP-FFB6C1?style=for-the-badge&labelColor=2D2A3E" />
 </p>
 
 
