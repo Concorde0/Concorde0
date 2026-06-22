@@ -1,9 +1,9 @@
-## 👋 About Me
+## 😽 About Me
 
-- 🔭 **Architecture & design patterns explorer.**  
-- 💡 **Strong opinions, open to challenge.**  
-- ⚔️ **Combat programmer @ Riff Dev Games & GAMEFANTASY.**  
-- 💬 **Clear, logical communication.**
+- 🙀 **Architecture & design patterns explorer.**  
+- 😿 **Strong opinions, open to challenge.**  
+- 😾 **Combat programmer @ Riff Dev Games & GAMEFANTASY.**  
+- 😹 **Clear, logical communication.**
 
 
 
