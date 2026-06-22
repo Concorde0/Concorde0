@@ -1,5 +1,6 @@
 ## 😽 About Me
 
+- 🐱 **Rising Junior.**
 - 🙀 **Architecture & design patterns explorer.**  
 - 😿 **Strong opinions, open to challenge.**  
 - 😾 **Combat programmer @ Riff Dev Games & GAMEFANTASY.**  
