@@ -69,7 +69,3 @@ Here are some ideas to get you started:
   <br />
   <sub>Tracking with WakaTime since Dec 6, 2025</sub>
 </div>
-
-<p align="center">
-  <img src="https://moe-wakatimer.1462913972.workers.dev/?time_type=second&theme=booru-vp" alt="Moe Wakatimer" />
-</p>
