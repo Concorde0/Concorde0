@@ -3,7 +3,7 @@
 - 🐱 **Computer Science student.**
 - 🙀 **Architecture & design patterns explorer.**  
 - 😿 **Strong opinions, open to challenge.**  
-- 😾 **Combat programmer @ Riff Dev Games & GAMEFANTASY.**  
+- 😾 **Combat programmer @ Riff Dev Games**  
 - 😹 **Aiming for clarity and logic.**
 
 <p align="left">
